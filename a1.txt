@@ -1,2 +1,6 @@
 marcelo recabarren leon
 mas
+<<<<<<< HEAD
+=======
+juan recabarren leon
+>>>>>>> rama1
